@@ -1,0 +1,12 @@
+[
+    {"_id": 1, "titulo": "Titanic", "autor": "James Cameron", "genero": "Drama/Romance", "fecha_emision": 1997, "duracion": 194},
+    {"_id": 2, "titulo": "El Padrino", "autor": "Francis FOrd Coppola", "genero": "Drama/Crimen", "fecha_emision": 1972, "duracion": 177},
+    {"_id": 3, "titulo": "La La Land", "autor": "Damien Chazelle", "genero": "Musical/Romance", "fecha_emision": 2016, "duracion": 194},
+    {"_id": 4, "titulo": "El Rey Leon", "autor": "Rogger Allers y Rob Minkoff", "genero": "Animacion/Aventura", "fecha_emision": 1994, "duracion": 88},
+    {"_id": 5, "titulo": "Matrix", "autor": "Lana y Lilly Wachowski", "genero": "Ciencia Ficcion/Accion", "fecha_emision": 1999, "duracion": 136},
+    {"_id": 6, "titulo": "El Silencio de los Inocentes", "autor": "Jonathan Demme", "genero": "Suspenso/Terror", "fecha_emision": 1991, "duracion": 118},
+    {"_id": 7, "titulo": "El Club de la Pelea", "autor": "David Fincher", "genero": "Drama/Thriller", "fecha_emision": 1999, "duracion": 139},
+    {"_id": 8, "titulo": "Los Vengadores", "autor": "Joss Whedon", "genero": "Accion/Aventura", "fecha_emision": 2012, "duracion": 143},
+    {"_id": 9, "titulo": "Regreso al Futuro", "autor": "Robert Zemeckis", "genero": "Ciencia Ficcion/Comedia", "fecha_emision": 1985, "duracion": 116},
+    {"_id": 10, "titulo": "Harry Poter y la Piedra Filosofal", "autor": "Chris Columbus", "genero": "Fantasia/Aventura", "fecha_emision": 2001, "duracion": 152}
+]
